@@ -19,7 +19,7 @@ Currently, I'm trying to master GoogleSheets API.
 ### talkToMe
 
 - [StackOverflow](https://stackoverflow.com/users/26491660/famq)
-- [Discord](https://discordapp.com/users/284148696017403905)
+- [Discord](https://discord.gg/xZYJpWG6jP)
 - [Steam](https://steamcommunity.com/id/famque/)
 
 ---
