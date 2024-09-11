@@ -12,7 +12,7 @@
 ![Google APIs](https://img.shields.io/badge/Google%20APIs-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%234F5B93.svg?style=for-the-badge&logo=json&logoColor=white)
 
-iCreate
+iCreate discord bots, hmu
 
 Currently, I'm trying to master GoogleSheets API.
 
