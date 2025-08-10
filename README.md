@@ -14,7 +14,6 @@
 
 iCreate discord bots, hmu
 
-Currently, I'm trying to master Azure AI document intelligence
 
 ### talkToMe
 
